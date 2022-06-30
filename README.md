@@ -1,4 +1,4 @@
-# tic-tac-text 
+# text 
 
 
 Difference between props and state:
